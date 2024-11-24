@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Mont;
+    font-weight: 800;
+    font-style: normal;
+    src: local("Roboto"),
+    url("../text/Montserrat-ExtraBold.woff2") format('woff2'), 
+    url("../text/Montserrat-ExtraBold.woff") format('woff'), 
+    url("../text/Montserrat-ExtraBold.eot") format('eot'); 
+    font-display: swap;
+}
+@font-face {
+    font-family: Mont;
+    font-weight: 600;
+    font-style: normal;
+    src: local("Roboto"),
+    url("../text/Montserrat-SemiBold.woff2") format('woff2'), 
+    url("../text/Montserrat-SemiBold.woff") format('woff2'), 
+    url("../text/Montserrat-SemiBold.eot") format('eot');
+    font-display: swap;
+}
